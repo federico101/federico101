@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with theories, algorithms, and more.
 - 📫 How to reach me: facebook
 - ⚡ Fun fact: ...
+- 🌟 Wish to earn a lot of money.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=federico101&show_icons=true&theme=merko)
 
