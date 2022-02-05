@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: facebook
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=federico101&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=federico101&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federico101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
